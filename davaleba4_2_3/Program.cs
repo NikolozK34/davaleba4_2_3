@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class FindSumPairsExample
+class davaleba4_2_3
 {
     static void Main()
     {
